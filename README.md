@@ -1,2 +1,2 @@
 # Multipage-Ecommerce-Website
-.Use Html Css Javascript
+Use Html Css Javascript
